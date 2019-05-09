@@ -1,0 +1,16 @@
+body {
+	text-align: center;
+	font-size: 50px;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 300;
+	color: #000000;
+	background-size: cover;
+	background-image: url("../Unit 3/images/0.jpg");
+	background-attachment: fixed; 
+	background-repeat: no-repeat;
+}
+h1 {
+	font-family: "Noto Sans TC", sans-serif;
+	font-weight: 300;
+	font-size: 100px;
+}
