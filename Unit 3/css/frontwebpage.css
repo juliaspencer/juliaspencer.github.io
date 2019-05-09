@@ -1,9 +1,12 @@
+.h1 {
+	font-family: Abel, Sans;
+}
 body {
 	text-align: center;
 	font-size: 64px;
 	font-weight: bold;
 	color: #ffffff;
-	font-family: "Pontano-Sans", Arial;
+	font-family: "Pontano Sans", Sans;
 	background-size: cover;
 	background-image: url("../images/0.jpg");
 	background-attachment: fixed; 
