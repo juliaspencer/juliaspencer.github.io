@@ -1,11 +1,15 @@
-.body {
+body {
 	text-align: center;
-	font-size: 72px;
+	font-size: 64px;
 	font-weight: bold;
 	color: #ffffff;
 	font-family: "Pontano-Sans", Arial;
 	background-size: cover;
-	background-image: url("IMG_2097.jpg");
-#h1 {
-	font-style: style;
+	background-image: url("../images/IMG_2097.jpg");
+	background-attachment: fixed; 
+	background-repeat: no-repeat;
+}
+ul {
+	width: 300px;
+	margin: 10px auto;
 }
