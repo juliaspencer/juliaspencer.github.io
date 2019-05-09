@@ -1,18 +1,19 @@
-.h1 {
-	font-family: Abel, Sans;
+h1{
+	font-family: 'Noto Sans TC', sans-serif;
+	font-weight: 300;
+	font-size: 100px;
+}
+p{
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 300;
 }
 body {
 	text-align: center;
 	font-size: 64px;
 	font-weight: bold;
 	color: #000000;
-	font-family: "Pontano Sans", Sans;
 	background-size: cover;
 	background-image: url("../images/0.jpg");
 	background-attachment: fixed; 
 	background-repeat: no-repeat;
-}
-ul {
-	width: 300px;
-	margin: 10px auto;
 }
