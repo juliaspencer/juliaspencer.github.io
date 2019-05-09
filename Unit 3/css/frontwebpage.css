@@ -1,7 +1,9 @@
 body {
 	text-align: center;
 	font-size: 50px;
-	font-family: Montserrat, sans-serif;
+	<style>
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300|Noto+Sans+TC:300');
+</style>
 	font-weight: 300;
 	color: #000000;
 	background-size: cover;
