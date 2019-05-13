@@ -1,4 +1,4 @@
-header {
+body {
 	text-align: center;
 	background-size: cover;
 	background-image: url("../Unit 3/images/0.jpg");
@@ -17,6 +17,5 @@ p {
 	color: #000000;
 }
 a {
-	text-align: center;
 	color: #000000;
 }
