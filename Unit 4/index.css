@@ -11,11 +11,11 @@ body {
 	font-weight: 300;
 	color: #ffffff;
 }
-h1 {
+#h1 {
 	font-family: "Noto Sans TC", sans-serif;
 	font-weight: 300;
 	font-size: 100px;
 }
-a {
+#a {
 	color: #000000;
 }
