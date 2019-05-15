@@ -1,0 +1,68 @@
+body {
+	text-align: center;
+	background-color: #ffffff;
+}
+nav {
+	background-color: #E8C66A;
+	border: 1px black solid;
+	padding: 20px;
+}
+header {
+	background-image: url("../Unit 3/images/0.jpg");
+	background-color: cover;
+	background-attachment: fixed;
+	border: 1px black solid;
+	padding: 20px;
+}
+aside {
+	background-color: #FFC675;
+	border: 1px black solid;
+	padding: 20px;
+}
+article {
+	background-color: #E89C6C;
+	border: 1px black solid;
+	padding: 20px;
+}
+.circleone {
+	background-color: #ffffff;
+	border: 1px black solid;
+	padding: 20px;
+	margin: 20px
+}
+.circletwo {
+	background-color: #ffffff;
+	border: 1px black solid;
+	padding: 20px;
+	margin: 20px
+}
+.circlethree {
+	background-color: #ffffff;
+	border: 1px black solid;
+	padding: 20px;
+	margin: 20px
+}
+ {
+	background-color: #00957E;
+	border: 1px black solid;
+	padding: 20px;
+}
+footer {
+	background-color: #FF957E;
+	border: 1px black solid;
+	padding: 20px;
+}
+h1 {
+	font-family: "Open Sans Condensed", sans-serif;
+	font-weight: 300;
+	font-size: 100px;
+}
+p {
+	font-size: 50px;
+	font-family: "Montserrat", sans-serif;
+	font-weight: 300;
+	color: #000000;
+}
+a {
+	color: #000000;
+}
