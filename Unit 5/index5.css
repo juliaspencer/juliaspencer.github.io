@@ -1,9 +1,6 @@
 body {
 	text-align: center;
-	background-size: cover;
-	background-image: url("../Unit 3/images/0.jpg");
-	background-attachment: fixed; 
-	background-repeat: no-repeat;
+	background-color: #ffffff;
 }
 nav {
 	background-color: #E8C66A;
@@ -11,7 +8,7 @@ nav {
 	padding: 20px;
 }
 header {
-	background-color: #FFED74;
+	background-image: url("../Unit 3/images/0.jpg");
 	border: 1px black solid;
 	padding: 20px;
 }
