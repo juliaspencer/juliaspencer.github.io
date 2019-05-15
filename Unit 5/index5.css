@@ -10,7 +10,6 @@ nav {
 header {
 	background-image: url("../Unit 3/images/0.jpg");
 	background-color: cover;
-	background-attachment: fixed;
 	border: 1px black solid;
 	padding: 20px;
 }
@@ -41,11 +40,6 @@ article {
 	border: 1px black solid;
 	padding: 20px;
 	margin: 20px
-}
- {
-	background-color: #00957E;
-	border: 1px black solid;
-	padding: 20px;
 }
 footer {
 	background-color: #FF957E;
