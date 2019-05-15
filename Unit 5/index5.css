@@ -25,6 +25,11 @@ article {
 	border: 1px black solid;
 	padding: 20px;
 }
+.below {
+	background-color: #FFFFFF;
+	border: none;
+	padding: 20px;
+}
 .circleone {
 	background-color: #ffffff;
 	border: 1px black solid;
