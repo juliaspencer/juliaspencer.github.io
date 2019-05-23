@@ -1,9 +1,7 @@
 body {
-	text-align: center;
 	background-color: #ffffff;
 }
 nav {
-	background-color: #FFFFFF;
 	padding: 20px;
 	font-color: #000;
 	font-size 12pt;
@@ -52,13 +50,14 @@ footer {
 	padding: 20px;
 }
 h1 {
-	font-style: "Open Sans Condensed", sans-serif;
+	text-align: center;
+	font-family: "Open Sans Condensed", sans-serif;
 	font-weight: 300;
 	font-size: 100px;
 }
 p {
 	font-size: 50px;
-	font-style: "Montserrat", sans-serif;
+	font-family: "Montserrat", sans-serif;
 	font-weight: 300;
 	color: #000000;
 }
