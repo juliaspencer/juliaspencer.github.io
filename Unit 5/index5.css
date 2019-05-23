@@ -28,7 +28,6 @@ article {
 .below {
 	background-color: #FFFFFF;
 	border: none;
-	padding: 20px;
 }
 .circleone {
 	background-color: #ffffff;
@@ -54,13 +53,13 @@ footer {
 	padding: 20px;
 }
 h1 {
-	font-family: "Open Sans Condensed", sans-serif;
+	font-style: "Open Sans Condensed", sans-serif;
 	font-weight: 300;
 	font-size: 100px;
 }
 p {
 	font-size: 50px;
-	font-family: "Montserrat", sans-serif;
+	font-style: "Montserrat", sans-serif;
 	font-weight: 300;
 	color: #000000;
 }
