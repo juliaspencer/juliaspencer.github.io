@@ -32,18 +32,33 @@ article {
 .circleone {
 	background-color: #ffffff;
 	border: 1px black solid;
+	border-radius: 50%;
+	display: flex;
+	background-color: #d1e2ff;
+	align-items: center;
+	float: left;
 	padding: 20px;
 	margin: 20px;
 }
 .circletwo {
 	background-color: #ffffff;
 	border: 1px black solid;
+	border-radius: 50%;
+	display: flex;
+	background-color: #d1e2ff;
+	align-items: center;
+	float: left;
 	padding: 20px;
 	margin: 20px;
 }
 .circlethree {
 	background-color: #ffffff;
 	border: 1px black solid;
+	border-radius: 50%;
+	display: flex;
+	background-color: #d1e2ff;
+	align-items: center;
+	float: left;
 	padding: 20px;
 	margin: 20px;
 }
