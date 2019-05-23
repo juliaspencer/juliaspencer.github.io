@@ -4,6 +4,7 @@ body {
 nav {
 	background-color: (255,255,255,1.0);
 	padding: 20px;
+	display: inline;
 	font-color: #ffffff;
 	font-size 12pt;
 	float: left;
@@ -19,30 +20,37 @@ header {
 	background-repeat: no-repeat;
 	padding: 20px;
 }
-.circleone {
+#three_circles {
+	background-color: white;
+	padding: 20px;
+}
+#circleone {
 	background-color: #ffffff;
 	border: none;
 	border-radius: 50%;
+	display: inline;
+	float: left;
 	background-color: #d1e2ff;
-	float: none;
 	padding: 20px;
 	margin: 20px;
 }
-.circletwo {
+#circletwo {
 	background-color: #ffffff;
 	border: none;
-	border-radius: 50%;
-	background-color: #d1e2ff;
 	float: none;
+	border-radius: 50%;
+	display: inline;
+	background-color: #d1e2ff;
 	padding: 20px;
 	margin: 20px;
 }
-.circlethree {
+#circlethree {
 	background-color: #ffffff;
 	border: none;
 	border-radius: 50%;
+	display: inline;
+	float: right;
 	background-color: #d1e2ff;
-	float: none;
 	padding: 20px;
 	margin: 20px;
 }
