@@ -3,39 +3,24 @@ body {
 	background-color: #ffffff;
 }
 nav {
-	background-color: #E8C66A;
-	border: 1px black solid;
+	background-color: #FFFFFF;
 	padding: 20px;
+	font-color: #000;
+	font-size 12pt;
+	float: left;
 }
 header {
 	background-image: url("../Unit 3/images/0.jpg");
 	background-size: cover;
 	position: relative;
 	background-repeat: no-repeat;
-	border: 1px black solid;
 	padding: 20px;
-}
-aside {
-	background-color: #FFC675;
-	border: 1px black solid;
-	padding: 20px;
-}
-article {
-	background-color: #E89C6C;
-	border: 1px black solid;
-	padding: 20px;
-}
-.below {
-	background-color: #FFFFFF;
-	border: none;
 }
 .circleone {
 	background-color: #ffffff;
 	border: none;
-	border-radius: 50%;
 	display: flex;
 	background-color: #d1e2ff;
-	align-items: center;
 	float: none;
 	padding: 20px;
 	margin: 20px;
@@ -43,7 +28,6 @@ article {
 .circletwo {
 	background-color: #ffffff;
 	border: none;
-	border-radius: 50%;
 	display: flex;
 	background-color: #d1e2ff;
 	align-items: center;
