@@ -2,10 +2,15 @@ body {
 	background-color: #ffffff;
 }
 nav {
+	background-color: (255,255,255,1.0);
 	padding: 20px;
-	font-color: #000;
+	font-color: #ffffff;
 	font-size 12pt;
 	float: left;
+}
+nav:hover {
+	background-color: #ffffff;
+	font-color: #000;
 }
 header {
 	background-image: url("../Unit 3/images/0.jpg");
@@ -43,8 +48,9 @@ header {
 }
 footer {
 	background-color: #FF957E;
-	border: 1px black solid;
+	border: none;
 	padding: 20px;
+	text-align: center;
 }
 h1 {
 	text-align: center;
@@ -53,6 +59,7 @@ h1 {
 	font-size: 100px;
 }
 p {
+	text-align: center;
 	font-size: 50px;
 	font-family: "Montserrat", sans-serif;
 	font-weight: 300;
