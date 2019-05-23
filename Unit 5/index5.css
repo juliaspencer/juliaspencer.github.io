@@ -6,7 +6,7 @@ nav {
 	padding: 20px;
 	display: inline;
 	font-color: #ffffff;
-	font-size 12pt;
+	font-size: 12px;
 	float: left;
 }
 nav:hover {
@@ -20,6 +20,10 @@ header {
 	background-repeat: no-repeat;
 	padding: 20px;
 }
+section {
+	font-color: black;
+	font-size: 25px
+}
 #three_circles {
 	background-color: white;
 	padding: 20px;
@@ -29,7 +33,7 @@ header {
 	border: none;
 	border-radius: 50%;
 	display: inline;
-	float: left;
+	align-items: left;
 	background-color: #d1e2ff;
 	padding: 20px;
 	margin: 20px;
@@ -37,7 +41,7 @@ header {
 #circletwo {
 	background-color: #ffffff;
 	border: none;
-	float: none;
+	align-items: center
 	border-radius: 50%;
 	display: inline;
 	background-color: #d1e2ff;
@@ -49,7 +53,7 @@ header {
 	border: none;
 	border-radius: 50%;
 	display: inline;
-	float: right;
+	align-items: right;
 	background-color: #d1e2ff;
 	padding: 20px;
 	margin: 20px;
