@@ -17,7 +17,7 @@ header {
 .circleone {
 	background-color: #ffffff;
 	border: none;
-	display: inline;
+	border-radius: 50%;
 	background-color: #d1e2ff;
 	float: none;
 	padding: 20px;
@@ -26,7 +26,7 @@ header {
 .circletwo {
 	background-color: #ffffff;
 	border: none;
-	display: inline;
+	border-radius: 50%;
 	background-color: #d1e2ff;
 	float: none;
 	padding: 20px;
@@ -36,7 +36,6 @@ header {
 	background-color: #ffffff;
 	border: none;
 	border-radius: 50%;
-	display: inline;
 	background-color: #d1e2ff;
 	float: none;
 	padding: 20px;
