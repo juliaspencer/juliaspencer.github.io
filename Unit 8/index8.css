@@ -6,7 +6,6 @@ nav {
 	color: black;
 	padding: 20px;
 	display: inline;
-	float: left;
 }
 a:hover {
 	background-color: white;
@@ -14,8 +13,8 @@ a:hover {
 }
 header {
 	background-image: url("../Unit 3/images/0.jpg");
-	background: fixed;
-	background-position: center;
+	background-size: cover;
+	position: relative;
 	background-repeat: no-repeat; 
 	padding: 20px;
 }
@@ -42,5 +41,5 @@ footer {
 }
 #CU {
 	text-transform: normal;
-	background color: #00FFFFFF;
+	background-color: #00FFFFFF;
 }
