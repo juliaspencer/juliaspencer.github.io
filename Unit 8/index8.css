@@ -2,8 +2,9 @@ body {
 	background-color: #ffffff;
 }
 nav {
-	background-color: none;
-	color: white;
+	background-color: #00FFFFFF;
+	color: black;
+	padding: 20px;
 	display: inline;
 	float: left;
 }
@@ -16,6 +17,7 @@ header {
 	background: fixed;
 	background-position: center;
 	background-repeat: no-repeat; 
+	padding: 20px;
 }
 h1 {
 	position: center;
@@ -37,4 +39,8 @@ footer {
 	border: none;
 	padding: 20px;
 	text-align: center;
+}
+#CU {
+	text-transform: normal;
+	background color: #00FFFFFF;
 }
