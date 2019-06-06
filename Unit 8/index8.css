@@ -1,0 +1,42 @@
+body {
+	background-color: #ffffff;
+}
+img {
+	background-image: url();
+	background: fixed;
+	background-position: center;
+	background-repeat: no-repeat; 
+}
+nav {
+	background-color: #6E6E6E;
+	color: white;
+	padding: ; 
+	display: inline;
+	float: left;
+}
+a:hover {
+	background-color: white;
+	color: black;
+}
+h1 {
+	position: center;
+	font-family: Open Sans Condensed, sans-serif;
+	font-size: 72px;
+	color: white;
+	font-weight: bold;
+}
+p {
+	position: center;
+	border: 10px solid #6E6E6E;
+	background-color: #6E6E6E;
+	color: white;
+	font-family: Montserrat, sans-serif;
+	text-transform: capitalize;
+}
+footer {
+	background-color: #FFC544;
+	color: white;
+	padding: 20px; 
+	display: center;
+	float: left;
+}
