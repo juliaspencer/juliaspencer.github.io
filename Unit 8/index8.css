@@ -1,12 +1,6 @@
 body {
 	background-color: #ffffff;
 }
-img {
-	background-image: url("../Unit 3/images/0.jpg");
-	background: fixed;
-	background-position: center;
-	background-repeat: no-repeat; 
-}
 nav {
 	background-color: none;
 	color: white;
@@ -17,6 +11,12 @@ nav {
 a:hover {
 	background-color: white;
 	color: black;
+}
+header {
+	background-image: url("../Unit 3/images/0.jpg");
+	background: fixed;
+	background-position: center;
+	background-repeat: no-repeat; 
 }
 h1 {
 	position: center;
