@@ -4,7 +4,8 @@ body {
 nav {
 	background-color: #FFFFFF;
 	color: black;
-	padding: 20px;
+	padding-top: 20px;
+	padding-bottom: 20px;
 	display: inline;
 }
 a:hover {
@@ -40,6 +41,7 @@ footer {
 }
 #CU {
 	color: white;
-	text-transform: normal;
-	background-color: none;
+	background-color: #FFC544;
+	border: 3px solid #6E6E6E;
+	padding: 40% 10% 10% 40%;
 }
