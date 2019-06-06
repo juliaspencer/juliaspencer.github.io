@@ -35,8 +35,7 @@ p {
 }
 footer {
 	background-color: #FFC544;
-	color: white;
-	padding: 20px; 
-	display: center;
-	float: left;
+	border: none;
+	padding: 20px;
+	text-align: center;
 }
