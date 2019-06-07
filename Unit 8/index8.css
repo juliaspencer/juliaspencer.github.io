@@ -4,8 +4,22 @@ body {
 nav {
 	background-color: #FFFFFF;
 	color: black;
-	margin-bottom: 20%;
-	display: inline;
+}
+a {
+	background-color: #FFFFFF;
+	color: black;
+	text-decoration: none;
+	display: block;
+	float: left;
+	padding: 20px;
+}
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	content: " ";
+	clear: both;
+	height: 0;
+	font-size: 0;
 }
 a:hover {
 	background-color: white;
@@ -45,5 +59,4 @@ footer {
 	color: white;
 	background-color: #FFC544;
 	border: 2px solid #ffffff;
-	padding: 5%;
 }
