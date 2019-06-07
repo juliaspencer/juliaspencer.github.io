@@ -4,8 +4,7 @@ body {
 nav {
 	background-color: #FFFFFF;
 	color: black;
-	padding-top: 20%;
-	padding-bottom: 20%;
+	margin-bottom: 20%;
 	display: inline;
 }
 a:hover {
