@@ -26,6 +26,7 @@ a:hover {
 	color: black;
 }
 header {
+	margin: 10px;
 	background-image: url("../Unit 3/images/0.jpg");
 	background-size: cover;
 	position: relative;
@@ -42,12 +43,9 @@ h1 {
 }
 p {
 	text-align: center;
-	border: 3px solid #6E6E6E;
-	background-color: #6E6E6E;
+	border: 2px solid #ffffff;
 	color: white;
 	font-family: Montserrat, sans-serif;
-	margin-left: 25%;
-	margin-right: 25%;
 }
 footer {
 	background-color: #FFC544;
@@ -56,7 +54,6 @@ footer {
 	text-align: center;
 }
 .CU {
-	color: white;
 	background-color: #FFC544;
 	border: 2px solid #ffffff;
 }
