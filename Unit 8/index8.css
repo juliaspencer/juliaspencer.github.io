@@ -43,8 +43,9 @@ h1 {
 }
 #Support {
 	position: absolute;
-	top: 100px;
+	top: 50px;
 	left: 30%;
+	color: blue;
 }
 p {
 	text-align: center;
