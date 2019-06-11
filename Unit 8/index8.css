@@ -27,12 +27,13 @@ a:hover {
 }
 header {
 	margin: 10px;
-	width: 100%;
 	background-size: cover;
 	position: relative;
 	background-repeat: no-repeat; 
 	padding: 20px;
-
+}
+#Patagonia {
+	width: 100%;
 }
 h1 {
 	text-align: center;
