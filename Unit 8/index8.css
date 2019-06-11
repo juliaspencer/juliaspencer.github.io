@@ -27,6 +27,7 @@ a:hover {
 }
 header {
 	margin: 10px;
+	width: 100%;
 	background-image: url("../Unit 3/images/0.jpg");
 	background-size: cover;
 	position: relative;
